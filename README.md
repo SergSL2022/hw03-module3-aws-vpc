@@ -31,7 +31,10 @@
 
 ## 4. Make sure that ec2 in public subnet is available over the internet, so you can connect by ssh
 ![alt text](<screenshots/4/Screenshot 2024-04-30 000740.jpg>)
-
+![alt text](<screenshots/4/Знімок екрана з 2024-04-30 00-09-10.png>)
+![alt text](<screenshots/4/Знімок екрана з 2024-04-30 00-10-12.png>)
+![alt text](<screenshots/4/Знімок екрана з 2024-04-30 00-10-44.png>)
+![alt text](<screenshots/4/Знімок екрана з 2024-04-30 00-16-08.png>)
 
 ## 5. Make sure that ec2 in private subnet is not available from the internet but is available from the ec2 in public subnet
 ![alt text](<screenshots/5/Screenshot 2024-04-30 002308.jpg>)
