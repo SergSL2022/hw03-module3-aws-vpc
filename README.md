@@ -45,3 +45,6 @@
 ![alt text](<screenshots/6/Screenshot 2024-04-30 154325.jpg>)
 ![alt text](<screenshots/6/Screenshot 2024-04-30 155030.jpg>)
 ![alt text](<screenshots/6/Screenshot 2024-04-30 155123.jpg>)
+![alt text](<screenshots/6/Знімок екрана з 2024-04-30 15-52-30.png>)
+![alt text](<screenshots/6/Знімок екрана з 2024-04-30 15-54-32.png>)
+![alt text](<screenshots/6/Знімок екрана з 2024-04-30 15-54-45.png>)
